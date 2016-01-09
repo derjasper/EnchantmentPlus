@@ -1,0 +1,6 @@
+worlds:
+  - world
+cost:
+  levelfactor: 1.75
+strings:
+  notenoughlevel: 'You do not have enough level to reuse the book. Level %level% (factor %factor%) is needed. To use the book once, right click the result field.'
